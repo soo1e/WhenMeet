@@ -15,9 +15,5 @@ public class WhenmeetApplication extends SpringBootServletInitializer{
 	public static void main(String[] args) {
 		SpringApplication.run(WhenmeetApplication.class, args);
 	}
-	@Override
-	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-		return application.sources(WhenmeetApplication.class);
-	}
 
 }
