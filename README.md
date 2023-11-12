@@ -37,7 +37,7 @@ http://158.179.195.219:8065/
 카카오맵 API, Fullcalendar API, CKEditor, Google Chart API
 
 
-# [내가 구현한 기능](https://github.com/Dormailler/team03_final_project/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-(%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EA%B2%8C%EC%8B%9C%ED%8C%90))
+# 내가 구현한 기능 [->](https://github.com/Dormailler/team01/wiki/%EB%82%B4%EA%B0%80-%EA%B5%AC%ED%98%84%ED%95%9C-%EA%B8%B0%EB%8A%A5)
 ## 메인 페이지
 ● 나의 그룹, 내가 작성한 글과 가입 신청한 글 표시,일주일 전부터 현재 시간까지의 글을 조회순으로 정렬한 인기글 목록 확인
 
