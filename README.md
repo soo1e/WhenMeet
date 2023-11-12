@@ -32,7 +32,7 @@ http://158.179.195.219:8065/
 ### ● 프론트엔드
  HTML / CSS / JAVASCRIPT / jQuery / JSTL
 ### ● 백엔드
- STS4 / JAVA / MyBatis
+STS4(Spring Boot) - MAVEN / JAVA / MyBatis
 ### ● api
 카카오맵 API, Fullcalendar API, CKEditor, Google Chart API
 
