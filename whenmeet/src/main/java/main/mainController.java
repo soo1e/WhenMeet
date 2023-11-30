@@ -43,7 +43,7 @@ public class mainController {
 		List<GroupDTO> mygroup = service.myGroup(user_id);
 		List<MainDTO> mywrite= service.myWrite(user_id);
 		List<MainDTO> myapplication= service.myApplication(user_id);
-		List<MainDTO> ranklist= service.rankList(oneWeekAgo);
+		List<MainDTO> ranklist = service.rankList(/*oneWeekAgo*/);
 		List<ScheduleDTO> schedulelist = service.getSchedule(user_id);
 		String json = new Gson().toJson(schedulelist);
 		ModelAndView mv = new ModelAndView();
