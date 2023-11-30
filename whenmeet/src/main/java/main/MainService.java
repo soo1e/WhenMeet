@@ -29,8 +29,9 @@ public class MainService {
 	public List<GroupDTO> myGroup(String user_id){
 		return dao.myGroup(user_id);
 	};
-	public List<MainDTO> rankList(LocalDate last){
-		return dao.rankList(last);
+
+	public List<MainDTO> rankList(/*LocalDate last*/){
+		return dao.rankList(/*last*/);
 	}
 	public void address(String address,String group_id) {
 		dao.address(address, group_id);
