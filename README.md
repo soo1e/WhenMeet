@@ -35,15 +35,3 @@ http://158.179.195.219:8081
 STS4(Spring Boot) - MAVEN / JAVA / MyBatis
 ### ● api
 카카오맵 API, Fullcalendar API, CKEditor, Google Chart API
-
-
-# [내가 구현한 기능](https://github.com/Dormailler/team01/wiki/%EB%82%B4%EA%B0%80-%EA%B5%AC%ED%98%84%ED%95%9C-%EA%B8%B0%EB%8A%A5)
-## 메인 페이지
-● 나의 그룹, 내가 작성한 글과 가입 신청한 글 표시,일주일 전부터 현재 시간까지의 글을 조회순으로 정렬한 인기글 목록 확인
-
-● FullCalendar API 를 활용하여 개인 일정을 확인하고 수정할 수 있는 기능 구현
-
-## 일정 페이지
-● 웹소켓을 이용한 실시간 채팅 구현
-
-● 카카오맵 api를 이용하여 미팅 위치를 설정하고 내 위치에서의 거리를 표시
